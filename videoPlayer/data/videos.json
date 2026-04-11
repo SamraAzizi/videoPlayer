@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "id": "c501c022-23c4-47a3-93c9-f2db03b8e75a",
+      "title": "Tim's Video",
+      "description": "cool video",
+      "filePath": "/videos/m2-res_1080p_AFbV8r7gh.mp4",
+      "fileName": "m2-res_1080p_AFbV8r7gh.mp4",
+      "thumbnailPath": "/thumbnails/WhatsApp_Image_2026-02-19_at_4.56.43_PM_l6Urz2N8B.jpeg",
+      "createdAt": "2026-02-20T13:20:22.220Z"
+    },
+    {
+      "id": "332afff7-5254-4a97-9854-5f77eea1a37a",
+      "title": "watermark",
+      "description": "watermark test",
+      "filePath": "/videos/m2-res_1080p_B1ZbwTVUt.mp4",
+      "fileName": "m2-res_1080p_B1ZbwTVUt.mp4",
+      "thumbnailPath": "/thumbnails/Python_tutorial_PQEINUwjV.png",
+      "createdAt": "2026-02-20T13:57:01.374Z",
+      "watermark": {
+        "imagePath": "/watermark/logo_final_RJJgNk1uW.png",
+        "position": "bottom_right",
+        "opacity": 0.7,
+        "width": 120
+      }
+    }
+  ]
+}
